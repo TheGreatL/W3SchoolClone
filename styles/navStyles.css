@@ -79,7 +79,7 @@ a,h1,p{
     padding-left: 0.5rem;
     min-width: 3rem;
     max-width: 23rem;
-    background-color: green;
+  
   
 }
 .middle-container form{
@@ -102,7 +102,7 @@ a,h1,p{
 .searchBtn{
     min-width: 1.5rem;
     background-color:white;
-    background-image: url('/images/search.png');
+    background-image: url('images/search.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size:50%;
